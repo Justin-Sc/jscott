@@ -10,7 +10,7 @@ module.exports = {
     siteLanguage: `en`,
     themeColor: `#8257E6`,
     basePath: `/`,
-    pathPrefix: "/reponame",
+    pathPrefix: "/jscott",
   },
   flags: { PRESERVE_WEBPACK_CACHE: true },
   plugins: [
